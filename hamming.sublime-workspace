@@ -1,0 +1,1063 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"encode"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"s",
+				"sys"
+			],
+			[
+				"se",
+				"Serial"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"dig",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"def",
+				"define\tArduino Macro define"
+			],
+			[
+				"cu",
+				"cu.usbserial-1410"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"re",
+				"readline"
+			],
+			[
+				"on",
+				"on_error"
+			],
+			[
+				"er",
+				"errorOccurred"
+			],
+			[
+				"A",
+				"Any"
+			],
+			[
+				"sta",
+				"StartServer"
+			],
+			[
+				"uni",
+				"unicodedata"
+			],
+			[
+				"un",
+				"unicodedata"
+			],
+			[
+				"P",
+				"PyQt6"
+			],
+			[
+				"si",
+				"six"
+			],
+			[
+				"pyQ",
+				"pyqtSignal"
+			],
+			[
+				"pyQt",
+				"pyqtSignal"
+			],
+			[
+				"QL",
+				"QLocalServer"
+			],
+			[
+				"lis",
+				"listen"
+			],
+			[
+				"rea",
+				"readline"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"S",
+				"Server"
+			],
+			[
+				"Q",
+				"QTcpServer"
+			],
+			[
+				"QTC",
+				"QTcpServer"
+			],
+			[
+				"liste",
+				"listen"
+			],
+			[
+				"QN",
+				"QtNetwork"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"enco",
+				"encontrarHammingError"
+			],
+			[
+				"ha",
+				"hamming"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"ex",
+				"exp"
+			],
+			[
+				"pa",
+				"partial"
+			],
+			[
+				"c",
+				"copyButton"
+			],
+			[
+				"cop",
+				"copy"
+			],
+			[
+				"clip",
+				"clipboard"
+			],
+			[
+				"Min",
+				"MinimumExpanding"
+			],
+			[
+				"M",
+				"MinimumExpanding"
+			],
+			[
+				"QS",
+				"QSizePolicy"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"QT",
+				"QtGui"
+			],
+			[
+				"QSiz",
+				"QSizePolicy"
+			],
+			[
+				"L",
+				"LeftToRight"
+			],
+			[
+				"Al",
+				"AlignRight"
+			],
+			[
+				"Aig",
+				"AlignTrailing"
+			],
+			[
+				"b",
+				"buttonsSection"
+			],
+			[
+				"star",
+				"startListenBtn"
+			],
+			[
+				"buttonS",
+				"buttonsSection"
+			],
+			[
+				"set",
+				"setAlignment"
+			],
+			[
+				"l",
+				"layout_"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"la",
+				"layout_"
+			],
+			[
+				"setP",
+				"setParent"
+			],
+			[
+				"QW",
+				"QWidget"
+			],
+			[
+				"Ty",
+				"type"
+			],
+			[
+				"isins",
+				"isinstance"
+			],
+			[
+				"isin",
+				"isinstance"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"sc",
+				"screens"
+			],
+			[
+				"desk",
+				"desktopSettingsAware"
+			],
+			[
+				"ap",
+				"app"
+			],
+			[
+				"setA",
+				"setAttribute"
+			],
+			[
+				"remo",
+				"removeWidget"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"r",
+				"removeWidget"
+			],
+			[
+				"ch",
+				"child"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"backgroundRole"
+			],
+			[
+				"setS",
+				"setStyleSheet"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"li",
+				"lightness"
+			],
+			[
+				"Ag",
+				"Agave_Nerd_Font_Propo"
+			],
+			[
+				"Ar",
+				"Arial_"
+			],
+			[
+				"U",
+				"Universidad_de_Lima_logo.png"
+			],
+			[
+				"Ima",
+				"ImageLabel"
+			],
+			[
+				"QPi",
+				"QPixmap"
+			],
+			[
+				"ttyS00",
+				"ttys003/"
+			],
+			[
+				"Se",
+				"Serial"
+			],
+			[
+				"da",
+				"dataSecction"
+			],
+			[
+				"manag",
+				"manage"
+			],
+			[
+				"py",
+				"pyqtSlot"
+			],
+			[
+				"pyQtS",
+				"pyqtSlot"
+			],
+			[
+				"Qtim",
+				"QTimer"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"F",
+				"FrameLayout"
+			],
+			[
+				"Fr",
+				"FrameLayout"
+			],
+			[
+				"QTh",
+				"QThreadPool"
+			],
+			[
+				"fra",
+				"frames"
+			],
+			[
+				"QC",
+				"QColor"
+			],
+			[
+				"Fon",
+				"FontFamily"
+			],
+			[
+				"ta",
+				"target="
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"o_",
+				"O_RDWR"
+			],
+			[
+				"Tec",
+				"TextSelectableByMouse"
+			],
+			[
+				"TextI",
+				"TextInteractionFlag"
+			],
+			[
+				"Text",
+				"TextInteractionFlag"
+			],
+			[
+				"setTe",
+				"setTextInteractionFlags"
+			],
+			[
+				"QMo",
+				"QMouseEvent"
+			],
+			[
+				"sel",
+				"selectedText"
+			],
+			[
+				"get",
+				"geometry"
+			],
+			[
+				"Ce",
+				"AlignCenter"
+			],
+			[
+				"QH",
+				"QHBoxLayout"
+			],
+			[
+				"setSt",
+				"setStyleSheet"
+			],
+			[
+				"q",
+				"PyQt6"
+			],
+			[
+				"layo",
+				"layout"
+			],
+			[
+				"DO",
+				"Down"
+			],
+			[
+				"QSC",
+				"QScrollArea"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"data",
+				"dataSecction"
+			],
+			[
+				"setB",
+				"setBackgroundRole"
+			],
+			[
+				"QPa",
+				"QPalette"
+			],
+			[
+				"To",
+				"TopToBottom"
+			],
+			[
+				"Di",
+				"Direction"
+			],
+			[
+				"La",
+				"LayoutDirection"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"Qla",
+				"QLayout"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/D/D.sublime-build",
+					""
+				],
+				[
+					"Packages/D/D.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/D/D.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"single file"
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				"single file"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/npm.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm.sublime-build",
+					"dev"
+				]
+			],
+			[
+				"Packages/User/npm.sublime-build",
+				"dev"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					""
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Run Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Test Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format File"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Format Project"
+				],
+				[
+					"Packages/Zig Language/Build Systems/Zig.sublime-build",
+					"Build Project"
+				]
+			],
+			[
+				"Packages/Zig Language/Build Systems/Zig.sublime-build",
+				"Test File"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"the",
+				"UI: Customize Theme"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"vue ",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"lsp res",
+				"LSP: Restart Server"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp:e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp:too",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"s",
+				"Set Syntax: Swift"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Swift"
+			],
+			[
+				"ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"java",
+				"Javatar: Calls..."
+			],
+			[
+				"bui",
+				"Javatar: Builds..."
+			],
+			[
+				"ja",
+				"Javatar: Builds..."
+			],
+			[
+				"cre",
+				"Javatar: Create new..."
+			],
+			[
+				"javatar",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"javatarb",
+				"Javatar: Browse Commands..."
+			],
+			[
+				"lspre",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"Lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"set font",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 371.0,
+		"history":
+		[
+			"import os",
+			"sys.clear()",
+			"import sys",
+			"import system",
+			"system.clear()",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/angelzuniga/haming",
+		"/Users/angelzuniga/haming/venv"
+	],
+	"file_history":
+	[
+		"/Users/angelzuniga/haming/main.py",
+		"/Users/angelzuniga/haming/haming.ino",
+		"/Users/angelzuniga/haming/hamming.sublime-project",
+		"/Users/angelzuniga/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Print.h",
+		"/Users/angelzuniga/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino/Stream.h",
+		"/Users/angelzuniga/Documents/programas/tkinter/main.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/hamming/hamming.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/windows.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/application.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/utils/tcpServer.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtNetwork.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/Server.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/utils/__init__.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/tcpServer.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/Server.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/hamming/__init__.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/fame.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/button.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtWidgets.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtGui.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/labels.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtCore.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtBluetooth.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/anyio/_core/_fileio.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/app/workers.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/__init__.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/QtDBus.pyi",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/engineio/async_client.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/styles/fontStyles.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/PyQt6/uic/Compiler/qtproxies.py",
+		"/Library/WebServer/Documents/GUI.php",
+		"/Users/angelzuniga/.config/skhd/skhdrc",
+		"/Users/angelzuniga/.config/yabai/yabairc",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/sqlalchemy/orm/attributes.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/venv/lib/python3.9/site-packages/sqlalchemy/sql/sqltypes.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/widgets/labels",
+		"/Users/angelzuniga/Documents/programas/tkinter/rxconfig.py",
+		"/Users/angelzuniga/Documents/programas/tkinter/tkinter.sublime-project",
+		"/Users/angelzuniga/Documents/programas/tkinter/tkinter/tkinter.py",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/angelzuniga/Documents/programas/zig/colorize/src/main.zig",
+		"/Users/angelzuniga/Documents/programas/zig/colorize/src/Color.zig",
+		"/Users/angelzuniga/Documents/programas/zig/colorize/,",
+		"/Users/angelzuniga/Documents/programas/zig/test/src/main.zig",
+		"/usr/local/lib/zig/std/valgrind.zig",
+		"/Users/angelzuniga/Documents/programas/zig/test/src/test.txt",
+		"/usr/local/lib/zig/std/fs/file.zig",
+		"/usr/local/lib/zig/std/os.zig",
+		"/usr/local/lib/zig/std/fs.zig",
+		"/usr/local/lib/zig/std/Thread.zig",
+		"/usr/local/lib/zig/std/os/linux.zig",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/LSP/LSP.sublime-settings",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/LSP.sublime-settings",
+		"/Users/angelzuniga/Documents/programas/advent.js",
+		"/Users/angelzuniga/Library/Caches/Sublime Text/Package Storage/LSP-typescript/20.8.0/typescript-language-server/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+		"/Users/angelzuniga/Library/Caches/Sublime Text/Package Storage/LSP-typescript/20.8.0/typescript-language-server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/tsc.sublime-build",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/node.sublime-build",
+		"/Library/WebServer/Documents/index.php",
+		"/Library/WebServer/Documents/index.",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/store.ts",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/components/SanakeSibling.vue",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/components/Sanke.vue",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/components/Map.vue",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/App.vue",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/store.js",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/npm.sublime-build",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/index.html",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/package.json",
+		"/Users/angelzuniga/Documents/programas/personal_projects/Snake/src/main.ts",
+		"/Users/angelzuniga/Documents/programas/personal_projects/retos-programacion-2023/Retos/Reto #38 - LAS SUMAS [Media]/zig/main.zig",
+		"/Users/angelzuniga/Documents/programas/personal_projects/retos-programacion-2023/Retos/Reto #38 - LAS SUMAS [Media]/swift/AngelZC790347.swift",
+		"/Users/angelzuniga/Documents/programas/personal_projects/retos-programacion-2023/Retos/Reto #38 - LAS SUMAS [Media]/objective-c/AngelZC790347.m",
+		"/Users/angelzuniga/test.swift",
+		"/Users/angelzuniga/Documents/programas/personal_projects/retos-programacion-2023/Retos/Reto #38 - LAS SUMAS [Media]/java/gonzsanz.java",
+		"/Users/angelzuniga/Documents/programas/java/poo/poo.sublime-project",
+		"/Users/angelzuniga/Documents/programas/java/poo/src/ejercicios_semana6/Main.java",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/Javatar/Javatar.sublime-settings",
+		"/Users/angelzuniga/Documents/programas/java/poo/src/javatar/simple/demo/Main.java",
+		"/Users/angelzuniga/Documents/programas/java/poo/src/Main.java",
+		"/Users/angelzuniga/Documents/programas/java/poo/Main.java",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/Java/JavaC.sublime-build",
+		"/Users/angelzuniga/zls/build.zig",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/swiftBuild.sublime-build",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text/Packages/User/swiftc.sublime-build"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 152.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 422.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 210.0
+	},
+	"output.diagnostics":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 192.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "hamming.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
